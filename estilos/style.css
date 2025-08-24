@@ -1,4 +1,4 @@
-/* 
+/*
   Variáveis para cores:
   --fundo-principal
   --texto
@@ -7,3 +7,7 @@
   --destaque-inverso
   --fundo-card
 */
+
+body {
+    background-color: gray;
+}
